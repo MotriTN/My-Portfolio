@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Desk.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "a chair and a desktop with Computers";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Inspired Community Discord Server",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Tunisian Discord Server for hosting podcasts, and meeting the community. yes! we are a community, we embrace self-improvement and productivity, we are encouraging youth to learn new technical skills",
+    url: "https://discord.gg/XDREyBwCEU",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Tunisia Self Improvement Page",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Embracing Self Improvement For Tunisian Young Men",
+    url: "https://Linktre.ee/TUN.SI",
   },
   {
-    title: "My Resume Site",
+    title: "Docuverse",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A little bit revolutionary startup for providing documnets for prep engineering students and more",
+    url: "https://linktr.ee/Docuverse02",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Microsoft Tech Clubs",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "a High Schools IT Community in my Hometown, this is where I came from",
+    url: "https://mtchs.tn",
   },
 ];
 
